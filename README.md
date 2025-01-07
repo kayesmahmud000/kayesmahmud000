@@ -22,7 +22,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  
   
 </div>
-### 🧐 More About Me:
+
+### 🧐 **More About Me**:
 
 - 🔭 &nbsp; I’m currently working on **a tourism website**
 - 🌱 &nbsp; I’m currently learning Next js; 
