@@ -17,7 +17,7 @@
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web+developer..!+;.)](https://git.io/typing-svg)
+
 <div align="right">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 </div>
@@ -33,7 +33,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web+developer..!+;.)](https://git.io/typing-svg)
+
 ### 🔨 **Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">**
 ###
 
@@ -67,7 +67,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 </div>
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web+developer..!+;.)](https://git.io/typing-svg)
+
 
 ### 
 ###
