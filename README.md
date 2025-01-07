@@ -8,10 +8,8 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 ###
-style=social&label=Follow)](https://github.com/kayesmahmud000?tab=followers)
-<div align="left">
-  <img src="https://profile-counter.glitch.me/kayesmahmud000/count.svg?"  />
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
+
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
