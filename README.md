@@ -87,8 +87,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  <br>
  <br>
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kayesmahmud000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+   <br>
+ <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayesmahmud000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayesmahmud000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </div>
 <br>
 
