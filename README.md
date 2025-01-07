@@ -76,7 +76,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 
 ###
 
-<h3 align="left">📊 Github Stats:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub stats &#8595;**
 
 ###
 
