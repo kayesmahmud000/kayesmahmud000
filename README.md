@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 ###
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kayesmahmud000.kayesmahmud000)](https://github.com/kayesmahmud000) [![GitHub followers](https://img.shields.io/github/followers/kayesmahmud000?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+style=social&label=Follow)](https://github.com/kayesmahmud000?tab=followers)
 <div align="left">
   <img src="https://profile-counter.glitch.me/kayesmahmud000/count.svg?"  />
 </div>
