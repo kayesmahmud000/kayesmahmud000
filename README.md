@@ -80,14 +80,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ###
 
+ <br/>
+ 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kayesmahmud000&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kayesmahmud000&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ <br>
+ <br>
+ <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kayesmahmud000&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayesmahmud000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kayesmahmud000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
