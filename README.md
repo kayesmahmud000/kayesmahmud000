@@ -5,6 +5,8 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
+
 ## **Hey 👋, I'm Kayes Mahmud!**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web+developer..!+;.)](https://git.io/typing-svg)
