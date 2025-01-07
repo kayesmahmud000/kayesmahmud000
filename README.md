@@ -19,7 +19,17 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 
 <div align="right">
-  ![Lottie Animation][(lottie-animation.gif](https://app.lottiefiles.com/animation/51384fac-8dac-42b7-b8e8-9e5471365cfc))
+  <div align="right">
+   <lottie-player 
+      src="[https://assets5.lottiefiles.com/packages/lf20_x62chJ.json](https://app.lottiefiles.com/animation/51384fac-8dac-42b7-b8e8-9e5471365cfc)"  
+      background="transparent"  
+      speed="1"  
+      style="width: 300px; height: 300px;"  
+      loop  
+      autoplay>
+   </lottie-player>
+</div>
+ 
   
 </div>
 ### 🧐 More About Me:
