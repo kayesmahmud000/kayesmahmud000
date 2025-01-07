@@ -71,8 +71,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img src="https://img.shields.io/badge/Node-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Express-43853D?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/UI%20UX-4db5ff?style=for-the-badge&logo=&logoColor=4db5ff" />&nbsp;
-<img src="https://img.shields.io/badge/Next-43853D?style=for-the-badge&logo=&logoColor=43853D" />&nbsp;
+<img src="https://img.shields.io/badge/Next-43853D?style=for-the-badge&logo=next&logoColor=43853D" />&nbsp;
 <br/>
 </div>
 <br>
