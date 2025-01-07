@@ -1,4 +1,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
@@ -6,7 +7,7 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
+
 
 ## **Hey <img src = "https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/hi.gif" width="50px" height="50px"> , I'm Kayes Mahmud!**
 
@@ -18,7 +19,7 @@
   <br/>
 </div>
 
-###   <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2> **About Me**:
+###  <h2>  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">  About Me</h2>:
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
