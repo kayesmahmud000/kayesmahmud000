@@ -14,14 +14,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CF78CE6&width=435&lines=I+am+a+Web+developer..!+;.)](https://git.io/typing-svg)
 
 
+
+
+###  <h2>  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **About Me**</h2>
+
 <div align="right">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
   <br/>
 </div>
-
-###  <h2>  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **About Me**</h2>
-
-
 I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , depending on what the project requires , I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 - 🔭 &nbsp; I’m currently working on **a tourism website**
@@ -29,7 +29,10 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I enjoy playing game and traveling.
     
-<h2> <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Connect With Me </h2>  
+<br>
+
+### <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **Connect With Me**
+
 <div align="left">
 <a href="https://www.facebook.com/mah.mud.473648" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
@@ -51,10 +54,11 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
   </a>
 
 ###
-</div>
+</div> 
 
+### 
 ###
-<br>
+
 
 ###  <h2>  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Languages and Tools </h2>
 ###
@@ -116,4 +120,4 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 
 ###
 
-<img src="https://raw.githubusercontent.com/kayesmahmud000/kayesmahmud000/output/snake.svg" alt="Snake animation" />
+
