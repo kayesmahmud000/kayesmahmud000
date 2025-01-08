@@ -1,7 +1,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+ <a href="https://dev.to/shakilahmedatik" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
