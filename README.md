@@ -1,11 +1,42 @@
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayesmahmud000&label=Profile%20views&color=0e75b6&style=flat" alt="kayesmahmud000" /> </p>
 <div align="center">
- <a href="https://www.linkedin.com/in/kayes-mah" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- <a href="https://www.facebook.com/mah.mud.473648" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-   <a href="https://x.com/kayes_mahm96577" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-   <a href="https://wa.me/8801729527377" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+
+  <a href="https://www.linkedin.com/in/kayes-mah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.facebook.com/mah.mud.473648" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+
+  <a href="https://x.com/kayes_mahm96577" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo" />
+  </a>
+
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+
+  <a href="https://www.threads.net/@your_threads_username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Threads&logo=threads&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="threads logo" />
+  </a>
+
+  <a href="https://discord.gg/gZhVeXGP" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+
+  <a href="https://wa.me/8801729527377" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+
+  <!-- Optional: Email badge -->
+  <a href="mailto:mdkayesmahmud3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+
 </div>
+
 
 
 
@@ -24,7 +55,7 @@
 </div>
 I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , depending on what the project requires , I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
-- 🔭 &nbsp; I’m currently working on **a tourism website [ Smart Eagle Tours & Travels](https://smarteaglebd.com/)**
+- 🔭 &nbsp; I’m currently working on **a Trusted Online Furniture Shop in Bangladesh [ C-Craft](https://c-craft-frontend.vercel.app/)**
 - 🌱 &nbsp; I’m currently learning Next js; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I enjoy playing game and traveling.
@@ -34,28 +65,39 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 ### <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **Connect With Me**
 
 <div align="left">
-<a href="https://www.facebook.com/mah.mud.473648" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-   
-  <a href="https://x.com/kayes_mahm96577" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/kayes-mah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-   
+
+  <a href="https://www.facebook.com/mah.mud.473648" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+
+  <!-- X (Twitter) -->
+<a href="https://x.com/kayes_mahm96577" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="x logo" />
+</a>
+
+  <a href="https://discord.gg/gZhVeXGP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
 
   <a href="https://wa.me/8801729527377" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
   </a>
 
-###
-</div> 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/k_a_y_e_s_m_a_h_m_u_d_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <!-- Threads (PNG version) -->
+  <a href="https://www.threads.net/_m_a_h_m_u_d_2" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" height="40" alt="threads logo" />
+  </a>
+</div>
+
+
 
 ### 
 ###
@@ -65,31 +107,39 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 ###
 
 
-<div align="left">
+<div align="center">
 
-<br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-</p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <h3>🛠️ Tech Stack</h3>
 
-###
-</p><br/>
+  <!-- Frontend -->
+  <p>
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" alt="HTML" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" alt="CSS" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" alt="React" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" alt="Tailwind" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" height="40" />
+  </p>
 
-<br>
+  <!-- Backend & Auth -->
+  <p>
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" alt="Node.js" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" alt="Express.js" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" alt="Firebase" height="40" />
+  </p>
+
+  <!-- Database -->
+  <p>
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" alt="MongoDB" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
+  </p>
+
+  <!-- Frameworks -->
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
+  </p>
+
+</div>
 
 
 ### 
