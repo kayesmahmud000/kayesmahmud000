@@ -57,7 +57,7 @@
 I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , depending on what the project requires , I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 - 🔭 &nbsp; I’m currently working on **a Trusted Online Furniture Shop in Bangladesh [ C-Craft](https://c-craft-frontend.vercel.app/)**
-- 🌱 &nbsp; I’m currently learning Next js; 
+- 🌱 &nbsp; I’m currently learning Typescript and Redux; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I enjoy playing game and traveling.
     
@@ -164,7 +164,10 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 
 </div>
 <br>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
