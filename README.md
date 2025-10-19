@@ -117,7 +117,6 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" alt="HTML" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" alt="CSS" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" alt="React" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" alt="Tailwind" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" height="40" />
   </p>
@@ -137,6 +136,7 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
 
   <!-- Frameworks -->
   <p>
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" alt="React" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
   </p>
 
