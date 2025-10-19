@@ -116,28 +116,34 @@ I am a  Web Developer 🌐 or beginner level Designer 🎨 from Bangladesh , dep
   <p>
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" alt="HTML" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" alt="CSS" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" height="40" />
+    <img <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" alt="Material UI Vector"/>
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" alt="Tailwind" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" height="40" />
   </p>
 
   <!-- Backend & Auth -->
-  <p>
+  <p>  
+     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" height="40" />
+    <img src="/images/icons/ts.png" alt="TypeScript" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" alt="Node.js" height="40" />
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" alt="Express.js" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" alt="Firebase" height="40" />
   </p>
 
   <!-- Database -->
   <p>
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" alt="MongoDB" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
+    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" alt="Firebase" height="40" />
   </p>
 
   <!-- Frameworks -->
   <p>
     <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" alt="React" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
+  </p>
+  <p>
+       <img src="/images/icons/redux.png" alt="Redux" height="40" />
+  </p>
   </p>
 
 </div>
