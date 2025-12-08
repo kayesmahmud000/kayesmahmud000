@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+everyone+!;I'm+Kayes+Mahmud...;I'm+a+Web+Developer..;Let's+work+together+!&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+everyone+!;I'm+Kayes+Mahmud..;I'm+a+Web+Developer..;Let's+work+together+!&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
   </a>
 </p>
 
