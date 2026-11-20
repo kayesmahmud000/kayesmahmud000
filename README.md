@@ -46,7 +46,7 @@ I’m a software developer from Bangladesh who enjoys turning product ideas into
 - 🌐 Develop responsive web applications and backend services with React, Next.js, Node.js, and Express.
 - 🧩 Work with databases such as MongoDB, MySQL, and Firebase, and integrate applications with REST APIs.
 - 🛠️ Value reusable components, clear state management, and practical engineering principles that support reliable products.
-- 🚀 Currently contributing to **C-Craft**, an online furniture shop in Bangladesh.
+- 🚀 Currently contributing to **Khamar School**, a veterinary-focused platform.
 - 📚 Continuously learning and exploring tools that help me build better software.
 
 I’m always glad to connect with people building useful products and to discuss mobile, web, or full-stack engineering opportunities.
