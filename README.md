@@ -91,6 +91,7 @@ I’m always glad to connect with people building useful products and to discuss
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" height="45" />
   </p>
 
   <h3>🗄️ Databases and Data</h3>
