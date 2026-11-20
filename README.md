@@ -44,8 +44,8 @@ I’m a software developer from Bangladesh who enjoys turning product ideas into
 
 - 📱 Build cross-platform mobile experiences with Flutter and Dart, including offline-friendly features and local data persistence.
 - 🌐 Develop responsive web applications and backend services with React, Next.js, Node.js, and Express.
-- 🧩 Work with databases such as MongoDB, MySQL, and Firebase, and integrate applications with REST APIs.
-- 🛠️ Value reusable components, clear state management, and practical engineering principles that support reliable products.
+- 🧩 Work with databases such as MongoDB, MySQL, PostgreSQL, and SQLite, and integrate applications with REST APIs.
+- 🛠️ Value reusable components, clear state management, SOLID principles, and practical engineering practices that support reliable products.
 - 🚀 Currently contributing to **Khamar School**, a veterinary-focused platform.
 - 📚 Continuously learning and exploring tools that help me build better software.
 
@@ -56,56 +56,59 @@ I’m always glad to connect with people building useful products and to discuss
 ### <img src="https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **Connect With Me**
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kayes-mah/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/mah.mud.473648" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-  </a>
-  <a href="https://x.com/kayes_mahm96577" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="x logo" />
-  </a>
-  <a href="https://discord.gg/gZhVeXGP" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://wa.me/8801729527377" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="https://www.instagram.com/k_a_y_e_s_m_a_h_m_u_d_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-  </a>
-  <a href="https://www.threads.net/_m_a_h_m_u_d_2" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" height="40" alt="threads logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/kayes-mah/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.facebook.com/mah.mud.473648" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" /></a>
+  <a href="https://x.com/kayes_mahm96577" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/x.png" width="40" height="40" alt="x logo" /></a>
+  <a href="https://discord.gg/gZhVeXGP" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
+  <a href="https://wa.me/8801729527377" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" /></a>
+  <a href="https://www.instagram.com/k_a_y_e_s_m_a_h_m_u_d_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
+  <a href="https://www.threads.net/_m_a_h_m_u_d_2" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/threads.png" width="40" height="40" alt="threads logo" /></a>
 </div>
 
-### <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> Languages and Tools</h2>
+### <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> **Languages and Tools**</h2>
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+
+  <h3>📱 Mobile Development</h3>
   <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png" alt="HTML" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png" alt="CSS" height="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" height="30" alt="Material UI" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png" alt="Tailwind CSS" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png" alt="Bootstrap" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="45" />
   </p>
+
+  <h3>🌐 Frontend Development</h3>
   <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png" alt="JavaScript" height="40" />
-    <img src="/images/icons/ts.png" alt="TypeScript" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png" alt="Node.js" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png" alt="Express.js" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="45" />
   </p>
+
+  <h3>⚙️ Backend and APIs</h3>
   <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png" alt="MongoDB" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="40" />
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png" alt="Firebase" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="45" />
   </p>
+
+  <h3>🗄️ Databases and Data</h3>
   <p>
-    <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png" alt="React" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40" />
-    <img src="/images/icons/redux.png" alt="Redux" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="45" />
   </p>
+
+  <h3>🧰 Tools and Platforms</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="45" />
+  </p>
+
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub stats ↓**
